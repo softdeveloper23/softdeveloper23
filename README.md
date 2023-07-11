@@ -32,8 +32,8 @@
 
 <h2>🌴 Connect with me:</h2>
 
-[Contact Me via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-light-mode-only)
-[Contact Me via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-dark-mode-only)
+[Contact Me Via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-light-mode-only)
+[Contact Me Via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <h2>⚡ Stats<h2>
