@@ -1,6 +1,6 @@
 # 🌌 Brannon Garrett
  
-**`Software Engineer (Python Developer/Web Developer/Front-End Developer)`**
+**`Software Engineer (JavaScript Developer/Python Developer/Backend Developer/Frontend Developer)`**
 
 👋 Hi, I’m @softdeveloper23 aka Brannon Garrett. <br />
 👀 I’m interested in anime, video games, and of course, programming. <br />
