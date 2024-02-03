@@ -4,9 +4,9 @@
 
 👋 Hi, I’m @softdeveloper23 aka Brannon Garrett. <br />
 👀 I’m interested in anime, video games, and of course, programming. <br />
-🌱 I’m currently learning Computer Science and multiple languages such as Python, C and JavaScript. <br />
-💞️ I’m looking to collaborate on some fun open-source projects that can help me sharpen my skills. <br />
-📫 You can reach me through Github or check out my website https://petexercising.com/ and use the 'Contact Form' to get in touch with me. <br />
+🌱 I’ve currently learned programming languages like C, Java, JavaScript, and Python. <br />
+💞️ I’m looking to become a backend developer and work with some fun and amazing technology. <br />
+📫 You can reach me through my LinkedIn page at https://www.linkedin.com/in/bgarrett77/ to get in touch with me or find me on Honeypot.io. <br />
 
 <h2>🧰 Languages And Tools I've Learned</h2>
  
