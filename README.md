@@ -1,12 +1,12 @@
-# 🌌 Brannon Garrett
+# 🌌 SoftDeveloper23
  
-**`Software Developer (JavaScript Developer/Python Developer/Backend Developer/Frontend Developer)`**
+**`Software Developer (iOS Developer/Website Developer/Web Apps)`**
 
-👋 Hi, I’m @softdeveloper23 aka Brannon Garrett. <br />
+👋 Hi, I’m @softdeveloper23. <br />
 👀 I’m interested in anime, video games, and of course, programming. <br />
 🌱 I’ve currently learned programming languages like C, Java, JavaScript, and Python. <br />
-💞️ I’m looking to become a backend developer and work with some fun and amazing technology. <br />
-📫 You can reach me through my LinkedIn page at https://www.linkedin.com/in/bgarrett77/ to get in touch with me or find me on Honeypot.io. <br />
+💞️ I’m currently working on multiple projects and mastering my workflow with AI. You can see all my projects on my website. <br />
+📫 You can reach me through my website at https://softdev23.com. <br />
 
 <h2>🧰 Languages And Tools I've Learned</h2>
  
@@ -49,8 +49,7 @@
 
 <h2>🌴 Connect with me:</h2>
 
-[Contact Me Via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-light-mode-only)
-[Contact Me Via LinkedIn](https://www.linkedin.com/in/bgarrett77/#gh-dark-mode-only)
+[Contact Me Via My Website](https://softdev23.com/)
 &nbsp;&nbsp;
 
 <h2>⚡ Stats<h2>
